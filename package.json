@@ -10,6 +10,10 @@
     "keyword2",
     "keyword3"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThousandAnt/Create-Parent-for-Selected"
+  },
   "author": {
     "name": "Thousand Ant",
     "email": "sam@thousandant.com",
